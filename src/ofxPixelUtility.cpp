@@ -1,7 +1,7 @@
-#include "ofxPixelUtility.h"
+#include "ofxPixelUtils.h"
 
 // begin namespace
-namespace ofxPixelUtility {
+namespace ofxPixelUtils {
 
 /// color functions:
 
