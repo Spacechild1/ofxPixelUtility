@@ -3,7 +3,7 @@
 #include "ofMain.h"
 
 // begin namespace
-namespace ofxPixelUtility {
+namespace ofxPixelUtils {
 
 
 /// Color functions:
