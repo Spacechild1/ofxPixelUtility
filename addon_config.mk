@@ -15,7 +15,7 @@
 # and the PG will write to the console the kind of error and in which line it is
 
 meta:
-	ADDON_NAME = ofxPixelUtility
+	ADDON_NAME = ofxPixelUtils
 	ADDON_DESCRIPTION = some utility functions for manipulating ofPixels
 	ADDON_AUTHOR = Christof Ressi
 	ADDON_TAGS = "graphics"
